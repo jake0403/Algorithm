@@ -1,0 +1,19 @@
+1.def selectionSort(N, arr):
+    # 가장 첫 번째 값과 비교하기 때문에 N-1만큼 loop
+    for i in range(N-1):
+        # 작은 값 담을 index 변수 생성
+        min_idx = i
+        # 비교할 값을 제외하고 N까지 loop
+        for j in range(i+1, N):
+            # arr 리스트의 가장 작은 인덱스 값이 비교하는 값 보다 작으면
+            if arr[min_idx] > arr[j]:
+                # 인덱스 위치 변경
+                min_idx = j
+        # 값 변경
+        arr[i], arr[min_idx] = arr[min_idx] , arr[i]
+
+
+2.  3번 변경:
+            6 , 3 교환
+            5 , 4 교환
+            9 , 5 교환
