@@ -1,23 +1,30 @@
-from collections import deque
-def D(arr):
-    arr = deque(arr)
-    if len(arr) !=0:
-        arr.popleft()
-        return arr
-    return 'error'
-
+import sys
+input = lambda : sys.stdin.readline().strip()
 
 T = int(input())
 for tc in range(T):
     func = input()
+    func = func.replace("RR",'')
     N = int(input())
     arr = input()
     arr = arr[1:-1].split(',')
+
+    rv = front = back = 0
+
     for f in func:
-        if f == 'R':
-            arr = arr[::-1]
+        if f == "R":
+            rv+=1
         else:
-            arr = D(arr)
-    for i in arr:
-        print(i, end='')
-    print()
+            if rv % 2 == 0:
+                front+=1
+            else:
+                back+=1
+
+    if front+back <= N:
+        arr = arr[front: N-back]
+        if rv % 2 != 0:
+            print(f"[{','.join(arr[::-1])}]")
+        else:
+            print(f"[{','.join(arr)}]")
+    else:
+        print("error")
