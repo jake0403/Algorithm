@@ -11,7 +11,7 @@ def snake(r,c):
     d = 0
     while True:
         nr, nc = r + delta[d][0], c + delta[d][1]
-        if 1<= nr <=N and 1<= nc <N and board[nr][nc] != 2:
+        if 1<= nr <=N and 1<= nc <= N and board[nr][nc] != 2:
             if board[nr][nc] == 0:
                 r, c = q.popleft()
                 board[r][c] = 0
