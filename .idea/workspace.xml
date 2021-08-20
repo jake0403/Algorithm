@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b028e956-aa19-40bd-a59c-b5110c23cb28" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Study/youngbba_모의코딩테스트_04/11727_2xn타일링2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Study/youngbba_모의코딩테스트_04/2947_나무조각.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/youngbba_모의코딩테스트_04/17822_원판돌리기.py" beforeDir="false" afterPath="$PROJECT_DIR$/Study/youngbba_모의코딩테스트_04/17822_원판돌리기.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,7 +125,7 @@
       <recent name="C:\Users\이재상\PycharmProjects\algorithm\APS1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.2947_나무조각">
+  <component name="RunManager" selected="Python.17822_원판돌리기">
     <configuration name="1074_Z" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -169,7 +168,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="16954_움직이는_미로탈출" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="17822_원판돌리기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -181,7 +180,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Study/youngbba_모의코딩테스트_04/16954_움직이는_미로탈출.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Study/youngbba_모의코딩테스트_04/17822_원판돌리기.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -233,19 +232,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.16954_움직이는_미로탈출" />
       <item itemvalue="Python.3184_양" />
       <item itemvalue="Python.1074_Z" />
       <item itemvalue="Python.11727_2xn타일링2" />
       <item itemvalue="Python.2947_나무조각" />
+      <item itemvalue="Python.17822_원판돌리기" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.17822_원판돌리기" />
         <item itemvalue="Python.2947_나무조각" />
         <item itemvalue="Python.11727_2xn타일링2" />
         <item itemvalue="Python.1074_Z" />
         <item itemvalue="Python.3184_양" />
-        <item itemvalue="Python.16954_움직이는_미로탈출" />
       </list>
     </recent_temporary>
   </component>
