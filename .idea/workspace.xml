@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b028e956-aa19-40bd-a59c-b5110c23cb28" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Study/5주차_2021.08.24/11000_강의실배정_G5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Study/5주차_2021.08.24/15989_1,2,3_더하기_4_S1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Study/5주차_2021.08.24/2589_보물섬_G5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Study/5주차_2021.08.24/2621_카드게임_S5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Study/youngbba_모의코딩테스트_04/1352_효율적인해킹_S2_BFS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Study/youngbba_모의코딩테스트_04/16197_두동전_G4_search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Study/youngbba_모의코딩테스트_04/1912_연속합_dp_S2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Study/youngbba_모의코딩테스트_04/2012_등수매기기_S3_Greedy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Study/youngbba_모의코딩테스트_04/2346_풍선터뜨리기_S3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Study/youngbba_모의코딩테스트_04/2529_부등호_S2_Brute.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -128,8 +130,8 @@
       <recent name="C:\Users\이재상\PycharmProjects\algorithm\APS2\분할정복_정렬_실습" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.2621_카드게임_S5">
-    <configuration name="1018_체스판_다시칠하기_S5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.16197_두동전_G4_search">
+    <configuration name="1352_효율적인해킹_S2_BFS" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -137,11 +139,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Study/BruteForce" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Study/youngbba_모의코딩테스트_04" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Study/BruteForce/1018_체스판_다시칠하기_S5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Study/youngbba_모의코딩테스트_04/1352_효율적인해킹_S2_BFS.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,7 +152,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1182_부분수열의_합_S2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="16197_두동전_G4_search" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -158,11 +160,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Study/BruteForce" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Study/youngbba_모의코딩테스트_04" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Study/BruteForce/1182_부분수열의_합_S2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Study/youngbba_모의코딩테스트_04/16197_두동전_G4_search.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -171,7 +173,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="15989_1,2,3_더하기_4_S1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1912_연속합_dp_S2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -179,11 +181,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Study/5주차_2021.08.24" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Study/youngbba_모의코딩테스트_04" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Study/5주차_2021.08.24/15989_1,2,3_더하기_4_S1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Study/youngbba_모의코딩테스트_04/1912_연속합_dp_S2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -192,7 +194,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2589_보물섬_G5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2346_풍선터뜨리기_S3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -200,11 +202,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Study/5주차_2021.08.24" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Study/youngbba_모의코딩테스트_04" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Study/5주차_2021.08.24/2589_보물섬_G5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Study/youngbba_모의코딩테스트_04/2346_풍선터뜨리기_S3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -235,19 +237,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.1018_체스판_다시칠하기_S5" />
-      <item itemvalue="Python.1182_부분수열의_합_S2" />
       <item itemvalue="Python.2621_카드게임_S5" />
-      <item itemvalue="Python.15989_1,2,3_더하기_4_S1" />
-      <item itemvalue="Python.2589_보물섬_G5" />
+      <item itemvalue="Python.2346_풍선터뜨리기_S3" />
+      <item itemvalue="Python.1352_효율적인해킹_S2_BFS" />
+      <item itemvalue="Python.1912_연속합_dp_S2" />
+      <item itemvalue="Python.16197_두동전_G4_search" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.16197_두동전_G4_search" />
+        <item itemvalue="Python.1912_연속합_dp_S2" />
+        <item itemvalue="Python.1352_효율적인해킹_S2_BFS" />
+        <item itemvalue="Python.2346_풍선터뜨리기_S3" />
         <item itemvalue="Python.2621_카드게임_S5" />
-        <item itemvalue="Python.2589_보물섬_G5" />
-        <item itemvalue="Python.15989_1,2,3_더하기_4_S1" />
-        <item itemvalue="Python.1182_부분수열의_합_S2" />
-        <item itemvalue="Python.1018_체스판_다시칠하기_S5" />
       </list>
     </recent_temporary>
   </component>
@@ -847,6 +849,11 @@
           <url>file://$PROJECT_DIR$/Study/BruteForce/1182_부분수열의_합_S2.py</url>
           <line>8</line>
           <option name="timeStamp" value="254" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Study/youngbba_모의코딩테스트_04/16197_두동전_G4_search.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="255" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
