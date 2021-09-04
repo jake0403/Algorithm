@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b028e956-aa19-40bd-a59c-b5110c23cb28" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Study/youngbba_모의코딩테스트_04/11501_주식_S3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Study/youngbba_모의코딩테스트_04/1759_암호만들기_BackTracking_G5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Study/youngbba_모의코딩테스트_04/1107_리모컨_G5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Study/youngbba_모의코딩테스트_04/1541_잃어버린괄호_S2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Study/DFS/새신을신고뛰어보자_elice.py" beforeDir="false" afterPath="$PROJECT_DIR$/Study/DFS/새신을신고뛰어보자_elice.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,7 +113,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="babygin&#9;null&#9;null&#10;그래프&#9;null&#9;null&#10;장훈&#9;FILE&#9;file://C:/Users/이재상/PycharmProjects/algorithm/APS2/완전탐색_Greedy_210416문제풀이/장훈이의_높은선반.py" />
-    <property name="last_opened_file_path" value="$USER_HOME$/ssafy_monthly_test/4월_월말평가" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
@@ -127,7 +126,28 @@
       <recent name="C:\Users\이재상\PycharmProjects\algorithm\APS2\분할정복_정렬_실습" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.11501_주식_S3">
+  <component name="RunManager" selected="Python.1107_리모컨_G5">
+    <configuration name="1107_리모컨_G5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Study/youngbba_모의코딩테스트_04" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Study/youngbba_모의코딩테스트_04/1107_리모컨_G5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="11501_주식_S3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -149,7 +169,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="15650_N과M2_S3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1541_잃어버린괄호_S2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -157,11 +177,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Study/BackTracking" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Study/youngbba_모의코딩테스트_04" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Study/BackTracking/15650_N과M2_S3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Study/youngbba_모의코딩테스트_04/1541_잃어버린괄호_S2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -212,41 +232,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="디스크컨트롤러_programmers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Study/PriorityQueue" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Study/PriorityQueue/디스크컨트롤러_programmers.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Python.11501_주식_S3" />
-      <item itemvalue="Python.15650_N과M2_S3" />
-      <item itemvalue="Python.1759_암호만들기_BackTracking_G5" />
       <item itemvalue="Python.새신을신고뛰어보자_elice" />
-      <item itemvalue="Python.디스크컨트롤러_programmers" />
+      <item itemvalue="Python.11501_주식_S3" />
+      <item itemvalue="Python.1759_암호만들기_BackTracking_G5" />
+      <item itemvalue="Python.1541_잃어버린괄호_S2" />
+      <item itemvalue="Python.1107_리모컨_G5" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1107_리모컨_G5" />
+        <item itemvalue="Python.1541_잃어버린괄호_S2" />
         <item itemvalue="Python.11501_주식_S3" />
         <item itemvalue="Python.1759_암호만들기_BackTracking_G5" />
         <item itemvalue="Python.새신을신고뛰어보자_elice" />
-        <item itemvalue="Python.디스크컨트롤러_programmers" />
-        <item itemvalue="Python.15650_N과M2_S3" />
       </list>
     </recent_temporary>
   </component>
@@ -886,6 +885,11 @@
           <url>file://$PROJECT_DIR$/Study/DFS/새신을신고뛰어보자_elice.py</url>
           <line>11</line>
           <option name="timeStamp" value="263" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Study/youngbba_모의코딩테스트_04/1541_잃어버린괄호_S2.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="264" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
