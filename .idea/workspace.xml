@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b028e956-aa19-40bd-a59c-b5110c23cb28" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Study/youngbba_모의코딩테스트_04/1107_리모컨_G5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Study/youngbba_모의코딩테스트_04/1541_잃어버린괄호_S2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kakao/2021.2_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kakao/2021.2_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kakao/2021.2_03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kakao/2021.2_06.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -126,7 +128,7 @@
       <recent name="C:\Users\이재상\PycharmProjects\algorithm\APS2\분할정복_정렬_실습" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.1107_리모컨_G5">
+  <component name="RunManager" selected="Python.2021.2_06">
     <configuration name="1107_리모컨_G5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -148,7 +150,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="11501_주식_S3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2021.2_01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -156,11 +158,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Study/youngbba_모의코딩테스트_04" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/kakao" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Study/youngbba_모의코딩테스트_04/11501_주식_S3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kakao/2021.2_01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -169,7 +171,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1541_잃어버린괄호_S2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2021.2_02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -177,11 +179,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Study/youngbba_모의코딩테스트_04" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/kakao" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Study/youngbba_모의코딩테스트_04/1541_잃어버린괄호_S2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kakao/2021.2_02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -190,7 +192,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1759_암호만들기_BackTracking_G5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2021.2_03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -198,11 +200,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Study/youngbba_모의코딩테스트_04" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/kakao" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Study/youngbba_모의코딩테스트_04/1759_암호만들기_BackTracking_G5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kakao/2021.2_03.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -211,7 +213,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="새신을신고뛰어보자_elice" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2021.2_06" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -219,11 +221,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Study/DFS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/kakao" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Study/DFS/새신을신고뛰어보자_elice.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kakao/2021.2_06.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -233,19 +235,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.새신을신고뛰어보자_elice" />
-      <item itemvalue="Python.11501_주식_S3" />
-      <item itemvalue="Python.1759_암호만들기_BackTracking_G5" />
-      <item itemvalue="Python.1541_잃어버린괄호_S2" />
       <item itemvalue="Python.1107_리모컨_G5" />
+      <item itemvalue="Python.2021.2_01" />
+      <item itemvalue="Python.2021.2_02" />
+      <item itemvalue="Python.2021.2_03" />
+      <item itemvalue="Python.2021.2_06" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2021.2_06" />
+        <item itemvalue="Python.2021.2_03" />
+        <item itemvalue="Python.2021.2_01" />
+        <item itemvalue="Python.2021.2_02" />
         <item itemvalue="Python.1107_리모컨_G5" />
-        <item itemvalue="Python.1541_잃어버린괄호_S2" />
-        <item itemvalue="Python.11501_주식_S3" />
-        <item itemvalue="Python.1759_암호만들기_BackTracking_G5" />
-        <item itemvalue="Python.새신을신고뛰어보자_elice" />
       </list>
     </recent_temporary>
   </component>
@@ -890,6 +892,21 @@
           <url>file://$PROJECT_DIR$/Study/youngbba_모의코딩테스트_04/1541_잃어버린괄호_S2.py</url>
           <line>20</line>
           <option name="timeStamp" value="264" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/kakao/2021.2_01.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="265" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/kakao/2021.2_03.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="266" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/kakao/2021.2_03.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="267" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
