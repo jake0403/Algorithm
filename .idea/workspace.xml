@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="b028e956-aa19-40bd-a59c-b5110c23cb28" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Nexon/Adding_Two_Numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nexon/Contiguous_Substring.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nexon/pb02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nexon/pb03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOJ/Dijkstra/1753_최단경로_G5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Study/MST/Kruskal.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/12871_무한문자열_S5.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ/12871_무한문자열_S5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/13706_제곱근_B1.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ/13706_제곱근_B1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/DFS/11581_구호물자_S1.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ/DFS/11581_구호물자_S1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/2021.09.14/13913_숨바꼭질4_G4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Study/2021.09.14/13913_숨바꼭질4_G4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/2021.09.14/17298_오큰수_G4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Study/2021.09.14/17298_오큰수_G4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/2021.09.14/2343_기타레슨_S1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Study/2021.09.14/2343_기타레슨_S1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +29,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -128,8 +143,8 @@
       <recent name="C:\Users\이재상\PycharmProjects\algorithm\APS2\분할정복_정렬_실습" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.pb03">
-    <configuration name="2021.2_06" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.MST_Kruskal">
+    <configuration name="13913_숨바꼭질4_G4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -137,11 +152,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/kakao" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Study/2021.09.14" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kakao/2021.2_06.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Study/2021.09.14/13913_숨바꼭질4_G4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,7 +165,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Adding_Two_Numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="17298_오큰수_G4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -158,11 +173,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nexon" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Study/2021.09.14" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nexon/Adding_Two_Numbers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Study/2021.09.14/17298_오큰수_G4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -171,7 +186,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Contiguous_Substring" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1753_최단경로_G5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -179,11 +194,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nexon" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ/Dijkstra" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nexon/Contiguous_Substring.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/Dijkstra/1753_최단경로_G5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -192,7 +207,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pb02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Kruskal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -200,11 +215,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nexon" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Study/MST" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nexon/pb02.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Study/MST/Kruskal.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -213,7 +228,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pb03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="MST_Kruskal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -221,11 +236,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nexon" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/APS2/Graph" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nexon/pb03.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/APS2/Graph/MST_Kruskal.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -235,19 +250,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.2021.2_06" />
-      <item itemvalue="Python.Adding_Two_Numbers" />
-      <item itemvalue="Python.Contiguous_Substring" />
-      <item itemvalue="Python.pb02" />
-      <item itemvalue="Python.pb03" />
+      <item itemvalue="Python.13913_숨바꼭질4_G4" />
+      <item itemvalue="Python.17298_오큰수_G4" />
+      <item itemvalue="Python.1753_최단경로_G5" />
+      <item itemvalue="Python.Kruskal" />
+      <item itemvalue="Python.MST_Kruskal" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.pb03" />
-        <item itemvalue="Python.pb02" />
-        <item itemvalue="Python.Contiguous_Substring" />
-        <item itemvalue="Python.Adding_Two_Numbers" />
-        <item itemvalue="Python.2021.2_06" />
+        <item itemvalue="Python.MST_Kruskal" />
+        <item itemvalue="Python.Kruskal" />
+        <item itemvalue="Python.1753_최단경로_G5" />
+        <item itemvalue="Python.17298_오큰수_G4" />
+        <item itemvalue="Python.13913_숨바꼭질4_G4" />
       </list>
     </recent_temporary>
   </component>
@@ -307,9 +322,6 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -917,6 +929,16 @@
           <url>file://$PROJECT_DIR$/Nexon/Contiguous_Substring.py</url>
           <line>8</line>
           <option name="timeStamp" value="270" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BOJ/DFS/11581_구호물자_S1.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="271" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Study/2021.09.14/2343_기타레슨_S1.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="272" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
