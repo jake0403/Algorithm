@@ -5,15 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b028e956-aa19-40bd-a59c-b5110c23cb28" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/BOJ/Dijkstra/1753_최단경로_G5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Study/MST/Kruskal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gabia/pb1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gabia/pb2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gabia/pb3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/12871_무한문자열_S5.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ/12871_무한문자열_S5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/13706_제곱근_B1.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ/13706_제곱근_B1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/DFS/11581_구호물자_S1.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ/DFS/11581_구호물자_S1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Study/2021.09.14/13913_숨바꼭질4_G4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Study/2021.09.14/13913_숨바꼭질4_G4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Study/2021.09.14/17298_오큰수_G4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Study/2021.09.14/17298_오큰수_G4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Study/2021.09.14/2343_기타레슨_S1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Study/2021.09.14/2343_기타레슨_S1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,70 +138,7 @@
       <recent name="C:\Users\이재상\PycharmProjects\algorithm\APS2\분할정복_정렬_실습" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.MST_Kruskal">
-    <configuration name="13913_숨바꼭질4_G4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Study/2021.09.14" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Study/2021.09.14/13913_숨바꼭질4_G4.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="17298_오큰수_G4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Study/2021.09.14" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Study/2021.09.14/17298_오큰수_G4.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="1753_최단경로_G5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ/Dijkstra" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/Dijkstra/1753_최단경로_G5.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.pb3">
     <configuration name="Kruskal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -249,20 +181,83 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="pb1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Gabia" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Gabia/pb1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pb2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Gabia" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Gabia/pb2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pb3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Gabia" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Gabia/pb3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.13913_숨바꼭질4_G4" />
-      <item itemvalue="Python.17298_오큰수_G4" />
-      <item itemvalue="Python.1753_최단경로_G5" />
       <item itemvalue="Python.Kruskal" />
       <item itemvalue="Python.MST_Kruskal" />
+      <item itemvalue="Python.pb1" />
+      <item itemvalue="Python.pb2" />
+      <item itemvalue="Python.pb3" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.pb3" />
+        <item itemvalue="Python.pb2" />
+        <item itemvalue="Python.pb1" />
         <item itemvalue="Python.MST_Kruskal" />
         <item itemvalue="Python.Kruskal" />
-        <item itemvalue="Python.1753_최단경로_G5" />
-        <item itemvalue="Python.17298_오큰수_G4" />
-        <item itemvalue="Python.13913_숨바꼭질4_G4" />
       </list>
     </recent_temporary>
   </component>
@@ -939,6 +934,16 @@
           <url>file://$PROJECT_DIR$/Study/2021.09.14/2343_기타레슨_S1.py</url>
           <line>14</line>
           <option name="timeStamp" value="272" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Gabia/pb1.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="273" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Gabia/pb3.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="274" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
