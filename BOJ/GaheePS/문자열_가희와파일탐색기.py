@@ -1,8 +1,8 @@
 import sys
-input = sys.stdin.readline
+input = lambda : sys.stdin.readline().strip()
 
 N, M = map(int, input().split())
-full_file = set(input() for _ in range(N))
+full_file = [input() for _ in range(N)]
 # 확장자 list
 extension = set(input() for _ in range(M))
 full_file.sort()
@@ -12,4 +12,4 @@ for i in range(N-1):
             full_file[i], full_file[i+1] = full_file[i+1], full_file[i]
 
 for f in full_file:
-    print(f.rstrip())
+    print(f)

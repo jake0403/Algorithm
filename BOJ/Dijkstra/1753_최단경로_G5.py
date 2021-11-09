@@ -25,3 +25,4 @@ V, E = map(int, input().split())
 start = int(input())
 graph = [[] for _ in range(V+1)]
 for _ in range(E):
+    pass
