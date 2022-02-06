@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b028e956-aa19-40bd-a59c-b5110c23cb28" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Gabia/pb1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gabia/pb2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gabia/pb3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOJ/BinarySearch/2776_암기왕_S4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOJ/Tree/15900_나무탈출.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebay/돌무더기.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -124,9 +124,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SearchEverywhereHistoryKey" value="babygin&#9;null&#9;null&#10;그래프&#9;null&#9;null&#10;장훈&#9;FILE&#9;file://C:/Users/이재상/PycharmProjects/algorithm/APS2/완전탐색_Greedy_210416문제풀이/장훈이의_높은선반.py" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
